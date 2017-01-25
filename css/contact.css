@@ -92,17 +92,6 @@ h2 {
     background-color: #D3D3D3;
 }
 
-.mypic {
-	width: 160px;
-	height: 150px;
-	margin-right: 15px;
-}
-
-.para1 {
-	margin: 15px;
-	float: left;
-}
-
 .largebox {
 	position: absolute;
 	width: 440px;
@@ -117,6 +106,10 @@ h2 {
     margin-left: 110px;
 }
 
+.form {
+	margin-left: 25px;
+	margin-top: 25px;
+}
 
 .smallbox {
 	position: absolute;
