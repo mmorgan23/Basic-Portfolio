@@ -110,20 +110,21 @@ h2 {
 .javascript {
 	height: 130px;
 	width: 180px;
-	margin-top: 30px
+	margin-top: 30px;
+
 }
 
 .games {
 	height: 130px;
 	width: 180px;
-	margin-top: 30px
+	margin-top: 30px;
+
 }
 
 .other {
 	height: 130px;
 	width: 180px;
-	margin-top: 30px
-
+	margin-top: 30px;
 }
 
 .largebox {
@@ -143,20 +144,81 @@ h2 {
 /*I broke the code - continue here*/
 .onpic1 {
 	position: relative;
-	border-color: black;
+}
+
+.onpic2 {
+	position: relative;
+}
+
+.onpic3 {
+	position: relative;
+}
+
+.onpic4 {
+	position: relative;
+}
+
+.onpic5 {
+	position: relative;
+}
+
+.java1 {
+	background-color: #4aaaa5;
+	width: 181px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	line-height: 30px; 
+	color: white;
+	margin-top: 110px;
+}
+
+
+.games1 {
+	background-color: #4aaaa5;
+	width: 181px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	line-height: 30px; 
+	color: white;
+	margin-top: 110px;
+
+}
+
+.other1 {
+	background-color: #4aaaa5;
+	width: 181px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	line-height: 30px; 
+	color: white;
+	margin-top: 110px;
+
+}
+
+.apps1 {
+	background-color: #4aaaa5;
+	width: 181px;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	line-height: 30px; 
+	color: white;
+	margin-top: 80px;
+
 }
 
 .web {
 	background-color: #4aaaa5;
-	width: 180px;
+	width: 181px;
 	height: 30px;
 	margin-top: 80px;
 	position: absolute;
 	text-align: center;
-	vertical-align: middle;
 	line-height: 30px; 
 	color: white;
-	margin-left: 1px;
 }
 
 .smallbox {
